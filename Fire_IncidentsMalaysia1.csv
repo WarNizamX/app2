@@ -1,0 +1,1729 @@
+Type of Fire,Year,State,Number of Cases
+Building,2015,Perlis,39
+Building,2015,Kedah,518
+Building,2015,P.Pinang,421
+Building,2015,Perak,358
+Building,2015,Selangor,1048
+Building,2015,Kuala Lumpur,714
+Building,2015,N.Sembilan,232
+Building,2015,Melaka,206
+Building,2015,Johor,561
+Building,2015,Pahang,240
+Building,2015,Terengganu,158
+Building,2015,Kelantan,183
+Building,2015,Sabah,502
+Building,2015,Sarawak,393
+Building,2015,Labuan,28
+Building,2015,Putrajaya,8
+Building,2016,Perlis,42
+Building,2016,Kedah,486
+Building,2016,P.Pinang,436
+Building,2016,Perak,457
+Building,2016,Selangor,1027
+Building,2016,Kuala Lumpur,635
+Building,2016,N.Sembilan,224
+Building,2016,Melaka,194
+Building,2016,Johor,438
+Building,2016,Pahang,282
+Building,2016,Terengganu,179
+Building,2016,Kelantan,173
+Building,2016,Sabah,499
+Building,2016,Sarawak,387
+Building,2016,Labuan,22
+Building,2016,Putrajaya,4
+Building,2017,Perlis,34
+Building,2017,Kedah,512
+Building,2017,P.Pinang,398
+Building,2017,Perak,389
+Building,2017,Selangor,1051
+Building,2017,Kuala Lumpur,646
+Building,2017,N.Sembilan,305
+Building,2017,Melaka,130
+Building,2017,Johor,490
+Building,2017,Pahang,226
+Building,2017,Terengganu,158
+Building,2017,Kelantan,198
+Building,2017,Sabah,452
+Building,2017,Sarawak,457
+Building,2017,Labuan,25
+Building,2017,Putrajaya,14
+Building,2018,Perlis,31
+Building,2018,Kedah,500
+Building,2018,P.Pinang,297
+Building,2018,Perak,408
+Building,2018,Selangor,1046
+Building,2018,Kuala Lumpur,571
+Building,2018,N.Sembilan,365
+Building,2018,Melaka,135
+Building,2018,Johor,508
+Building,2018,Pahang,223
+Building,2018,Terengganu,149
+Building,2018,Kelantan,188
+Building,2018,Sabah,468
+Building,2018,Sarawak,443
+Building,2018,Labuan,22
+Building,2018,Putrajaya,14
+Building,2019,Perlis,42
+Building,2019,Kedah,453
+Building,2019,P.Pinang,333
+Building,2019,Perak,392
+Building,2019,Selangor,1083
+Building,2019,Kuala Lumpur,563
+Building,2019,N.Sembilan,371
+Building,2019,Melaka,167
+Building,2019,Johor,568
+Building,2019,Pahang,241
+Building,2019,Terengganu,155
+Building,2019,Kelantan,187
+Building,2019,Sabah,467
+Building,2019,Sarawak,403
+Building,2019,Labuan,20
+Building,2019,Putrajaya,4
+Building,2020,Perlis,22
+Building,2020,Kedah,351
+Building,2020,P.Pinang,271
+Building,2020,Perak,311
+Building,2020,Selangor,935
+Building,2020,Kuala Lumpur,368
+Building,2020,N.Sembilan,288
+Building,2020,Melaka,143
+Building,2020,Johor,414
+Building,2020,Pahang,161
+Building,2020,Terengganu,129
+Building,2020,Kelantan,137
+Building,2020,Sabah,380
+Building,2020,Sarawak,263
+Building,2020,Labuan,15
+Building,2020,Putrajaya,9
+Vehicles,2015,Perlis,20
+Vehicles,2015,Kedah,193
+Vehicles,2015,P.Pinang,219
+Vehicles,2015,Perak,401
+Vehicles,2015,Selangor,1022
+Vehicles,2015,Kuala Lumpur,322
+Vehicles,2015,N.Sembilan,193
+Vehicles,2015,Melaka,126
+Vehicles,2015,Johor,528
+Vehicles,2015,Pahang,239
+Vehicles,2015,Terengganu,91
+Vehicles,2015,Kelantan,90
+Vehicles,2015,Sabah,106
+Vehicles,2015,Sarawak,182
+Vehicles,2015,Labuan,5
+Vehicles,2015,Putrajaya,8
+Vehicles,2016,Perlis,19
+Vehicles,2016,Kedah,187
+Vehicles,2016,P.Pinang,239
+Vehicles,2016,Perak,446
+Vehicles,2016,Selangor,1010
+Vehicles,2016,Kuala Lumpur,296
+Vehicles,2016,N.Sembilan,209
+Vehicles,2016,Melaka,163
+Vehicles,2016,Johor,517
+Vehicles,2016,Pahang,250
+Vehicles,2016,Terengganu,105
+Vehicles,2016,Kelantan,105
+Vehicles,2016,Sabah,138
+Vehicles,2016,Sarawak,187
+Vehicles,2016,Labuan,9
+Vehicles,2016,Putrajaya,14
+Vehicles,2017,Perlis,17
+Vehicles,2017,Kedah,208
+Vehicles,2017,P.Pinang,249
+Vehicles,2017,Perak,413
+Vehicles,2017,Selangor,928
+Vehicles,2017,Kuala Lumpur,295
+Vehicles,2017,N.Sembilan,198
+Vehicles,2017,Melaka,149
+Vehicles,2017,Johor,583
+Vehicles,2017,Pahang,211
+Vehicles,2017,Terengganu,92
+Vehicles,2017,Kelantan,105
+Vehicles,2017,Sabah,172
+Vehicles,2017,Sarawak,179
+Vehicles,2017,Labuan,7
+Vehicles,2017,Putrajaya,7
+Vehicles,2018,Perlis,22
+Vehicles,2018,Kedah,204
+Vehicles,2018,P.Pinang,210
+Vehicles,2018,Perak,400
+Vehicles,2018,Selangor,990
+Vehicles,2018,Kuala Lumpur,271
+Vehicles,2018,N.Sembilan,185
+Vehicles,2018,Melaka,135
+Vehicles,2018,Johor,551
+Vehicles,2018,Pahang,235
+Vehicles,2018,Terengganu,79
+Vehicles,2018,Kelantan,95
+Vehicles,2018,Sabah,169
+Vehicles,2018,Sarawak,198
+Vehicles,2018,Labuan,5
+Vehicles,2018,Putrajaya,13
+Vehicles,2019,Perlis,17
+Vehicles,2019,Kedah,199
+Vehicles,2019,P.Pinang,221
+Vehicles,2019,Perak,401
+Vehicles,2019,Selangor,1018
+Vehicles,2019,Kuala Lumpur,294
+Vehicles,2019,N.Sembilan,192
+Vehicles,2019,Melaka,148
+Vehicles,2019,Johor,680
+Vehicles,2019,Pahang,251
+Vehicles,2019,Terengganu,94
+Vehicles,2019,Kelantan,128
+Vehicles,2019,Sabah,145
+Vehicles,2019,Sarawak,205
+Vehicles,2019,Labuan,5
+Vehicles,2019,Putrajaya,6
+Vehicles,2020,Perlis,18
+Vehicles,2020,Kedah,164
+Vehicles,2020,P.Pinang,187
+Vehicles,2020,Perak,327
+Vehicles,2020,Selangor,906
+Vehicles,2020,Kuala Lumpur,230
+Vehicles,2020,N.Sembilan,183
+Vehicles,2020,Melaka,133
+Vehicles,2020,Johor,470
+Vehicles,2020,Pahang,178
+Vehicles,2020,Terengganu,81
+Vehicles,2020,Kelantan,87
+Vehicles,2020,Sabah,160
+Vehicles,2020,Sarawak,169
+Vehicles,2020,Labuan,5
+Vehicles,2020,Putrajaya,6
+Machine,2015,Perlis,0
+Machine,2015,Kedah,1
+Machine,2015,P.Pinang,16
+Machine,2015,Perak,10
+Machine,2015,Selangor,22
+Machine,2015,Kuala Lumpur,0
+Machine,2015,N.Sembilan,6
+Machine,2015,Melaka,2
+Machine,2015,Johor,22
+Machine,2015,Pahang,7
+Machine,2015,Terengganu,4
+Machine,2015,Kelantan,1
+Machine,2015,Sabah,10
+Machine,2015,Sarawak,5
+Machine,2015,Labuan,0
+Machine,2015,Putrajaya,1
+Machine,2016,Perlis,0
+Machine,2016,Kedah,3
+Machine,2016,P.Pinang,19
+Machine,2016,Perak,7
+Machine,2016,Selangor,41
+Machine,2016,Kuala Lumpur,2
+Machine,2016,N.Sembilan,4
+Machine,2016,Melaka,3
+Machine,2016,Johor,24
+Machine,2016,Pahang,7
+Machine,2016,Terengganu,1
+Machine,2016,Kelantan,5
+Machine,2016,Sabah,6
+Machine,2016,Sarawak,8
+Machine,2016,Labuan,0
+Machine,2016,Putrajaya,0
+Machine,2017,Perlis,1
+Machine,2017,Kedah,5
+Machine,2017,P.Pinang,16
+Machine,2017,Perak,19
+Machine,2017,Selangor,33
+Machine,2017,Kuala Lumpur,1
+Machine,2017,N.Sembilan,4
+Machine,2017,Melaka,6
+Machine,2017,Johor,33
+Machine,2017,Pahang,7
+Machine,2017,Terengganu,3
+Machine,2017,Kelantan,3
+Machine,2017,Sabah,11
+Machine,2017,Sarawak,7
+Machine,2017,Labuan,0
+Machine,2017,Putrajaya,2
+Machine,2018,Perlis,1
+Machine,2018,Kedah,4
+Machine,2018,P.Pinang,15
+Machine,2018,Perak,15
+Machine,2018,Selangor,52
+Machine,2018,Kuala Lumpur,2
+Machine,2018,N.Sembilan,2
+Machine,2018,Melaka,6
+Machine,2018,Johor,35
+Machine,2018,Pahang,5
+Machine,2018,Terengganu,4
+Machine,2018,Kelantan,3
+Machine,2018,Sabah,10
+Machine,2018,Sarawak,18
+Machine,2018,Labuan,0
+Machine,2018,Putrajaya,0
+Machine,2019,Perlis,1
+Machine,2019,Kedah,4
+Machine,2019,P.Pinang,15
+Machine,2019,Perak,15
+Machine,2019,Selangor,52
+Machine,2019,Kuala Lumpur,2
+Machine,2019,N.Sembilan,2
+Machine,2019,Melaka,6
+Machine,2019,Johor,35
+Machine,2019,Pahang,5
+Machine,2019,Terengganu,4
+Machine,2019,Kelantan,3
+Machine,2019,Sabah,10
+Machine,2019,Sarawak,18
+Machine,2019,Labuan,0
+Machine,2019,Putrajaya,0
+Machine,2020,Perlis,0
+Machine,2020,Kedah,14
+Machine,2020,P.Pinang,19
+Machine,2020,Perak,11
+Machine,2020,Selangor,22
+Machine,2020,Kuala Lumpur,2
+Machine,2020,N.Sembilan,5
+Machine,2020,Melaka,3
+Machine,2020,Johor,43
+Machine,2020,Pahang,7
+Machine,2020,Terengganu,3
+Machine,2020,Kelantan,5
+Machine,2020,Sabah,7
+Machine,2020,Sarawak,7
+Machine,2020,Labuan,0
+Machine,2020,Putrajaya,1
+Appliances,2015,Perlis,22
+Appliances,2015,Kedah,27
+Appliances,2015,P.Pinang,98
+Appliances,2015,Perak,171
+Appliances,2015,Selangor,365
+Appliances,2015,Kuala Lumpur,7
+Appliances,2015,N.Sembilan,67
+Appliances,2015,Melaka,42
+Appliances,2015,Johor,375
+Appliances,2015,Pahang,58
+Appliances,2015,Terengganu,62
+Appliances,2015,Kelantan,59
+Appliances,2015,Sabah,53
+Appliances,2015,Sarawak,79
+Appliances,2015,Labuan,3
+Appliances,2015,Putrajaya,13
+Appliances,2016,Perlis,21
+Appliances,2016,Kedah,27
+Appliances,2016,P.Pinang,78
+Appliances,2016,Perak,229
+Appliances,2016,Selangor,324
+Appliances,2016,Kuala Lumpur,17
+Appliances,2016,N.Sembilan,41
+Appliances,2016,Melaka,33
+Appliances,2016,Johor,313
+Appliances,2016,Pahang,56
+Appliances,2016,Terengganu,61
+Appliances,2016,Kelantan,60
+Appliances,2016,Sabah,47
+Appliances,2016,Sarawak,96
+Appliances,2016,Labuan,4
+Appliances,2016,Putrajaya,13
+Appliances,2017,Perlis,15
+Appliances,2017,Kedah,29
+Appliances,2017,P.Pinang,114
+Appliances,2017,Perak,219
+Appliances,2017,Selangor,353
+Appliances,2017,Kuala Lumpur,25
+Appliances,2017,N.Sembilan,41
+Appliances,2017,Melaka,35
+Appliances,2017,Johor,344
+Appliances,2017,Pahang,57
+Appliances,2017,Terengganu,65
+Appliances,2017,Kelantan,52
+Appliances,2017,Sabah,72
+Appliances,2017,Sarawak,131
+Appliances,2017,Labuan,3
+Appliances,2017,Putrajaya,18
+Appliances,2018,Perlis,22
+Appliances,2018,Kedah,32
+Appliances,2018,P.Pinang,121
+Appliances,2018,Perak,188
+Appliances,2018,Selangor,322
+Appliances,2018,Kuala Lumpur,30
+Appliances,2018,N.Sembilan,28
+Appliances,2018,Melaka,49
+Appliances,2018,Johor,322
+Appliances,2018,Pahang,76
+Appliances,2018,Terengganu,62
+Appliances,2018,Kelantan,39
+Appliances,2018,Sabah,58
+Appliances,2018,Sarawak,99
+Appliances,2018,Labuan,3
+Appliances,2018,Putrajaya,19
+Appliances,2019,Perlis,16
+Appliances,2019,Kedah,46
+Appliances,2019,P.Pinang,137
+Appliances,2019,Perak,183
+Appliances,2019,Selangor,388
+Appliances,2019,Kuala Lumpur,29
+Appliances,2019,N.Sembilan,21
+Appliances,2019,Melaka,43
+Appliances,2019,Johor,361
+Appliances,2019,Pahang,59
+Appliances,2019,Terengganu,74
+Appliances,2019,Kelantan,40
+Appliances,2019,Sabah,49
+Appliances,2019,Sarawak,118
+Appliances,2019,Labuan,3
+Appliances,2019,Putrajaya,26
+Appliances,2020,Perlis,21
+Appliances,2020,Kedah,49
+Appliances,2020,P.Pinang,104
+Appliances,2020,Perak,156
+Appliances,2020,Selangor,268
+Appliances,2020,Kuala Lumpur,53
+Appliances,2020,N.Sembilan,30
+Appliances,2020,Melaka,33
+Appliances,2020,Johor,299
+Appliances,2020,Pahang,57
+Appliances,2020,Terengganu,47
+Appliances,2020,Kelantan,36
+Appliances,2020,Sabah,37
+Appliances,2020,Sarawak,96
+Appliances,2020,Labuan,4
+Appliances,2020,Putrajaya,9
+Petrol,2015,Perlis,0
+Petrol,2015,Kedah,0
+Petrol,2015,P.Pinang,0
+Petrol,2015,Perak,2
+Petrol,2015,Selangor,1
+Petrol,2015,Kuala Lumpur,0
+Petrol,2015,N.Sembilan,0
+Petrol,2015,Melaka,0
+Petrol,2015,Johor,0
+Petrol,2015,Pahang,0
+Petrol,2015,Terengganu,0
+Petrol,2015,Kelantan,0
+Petrol,2015,Sabah,0
+Petrol,2015,Sarawak,1
+Petrol,2015,Labuan,1
+Petrol,2015,Putrajaya,0
+Petrol,2016,Perlis,0
+Petrol,2016,Kedah,1
+Petrol,2016,P.Pinang,1
+Petrol,2016,Perak,0
+Petrol,2016,Selangor,0
+Petrol,2016,Kuala Lumpur,0
+Petrol,2016,N.Sembilan,1
+Petrol,2016,Melaka,1
+Petrol,2016,Johor,0
+Petrol,2016,Pahang,0
+Petrol,2016,Terengganu,0
+Petrol,2016,Kelantan,0
+Petrol,2016,Sabah,0
+Petrol,2016,Sarawak,0
+Petrol,2016,Labuan,0
+Petrol,2016,Putrajaya,0
+Petrol,2017,Perlis,0
+Petrol,2017,Kedah,1
+Petrol,2017,P.Pinang,0
+Petrol,2017,Perak,1
+Petrol,2017,Selangor,2
+Petrol,2017,Kuala Lumpur,1
+Petrol,2017,N.Sembilan,0
+Petrol,2017,Melaka,1
+Petrol,2017,Johor,0
+Petrol,2017,Pahang,0
+Petrol,2017,Terengganu,0
+Petrol,2017,Kelantan,0
+Petrol,2017,Sabah,0
+Petrol,2017,Sarawak,2
+Petrol,2017,Labuan,0
+Petrol,2017,Putrajaya,0
+Petrol,2018,Perlis,1
+Petrol,2018,Kedah,1
+Petrol,2018,P.Pinang,2
+Petrol,2018,Perak,1
+Petrol,2018,Selangor,1
+Petrol,2018,Kuala Lumpur,1
+Petrol,2018,N.Sembilan,0
+Petrol,2018,Melaka,1
+Petrol,2018,Johor,1
+Petrol,2018,Pahang,0
+Petrol,2018,Terengganu,1
+Petrol,2018,Kelantan,0
+Petrol,2018,Sabah,0
+Petrol,2018,Sarawak,2
+Petrol,2018,Labuan,0
+Petrol,2018,Putrajaya,0
+Petrol,2019,Perlis,0
+Petrol,2019,Kedah,0
+Petrol,2019,P.Pinang,0
+Petrol,2019,Perak,0
+Petrol,2019,Selangor,0
+Petrol,2019,Kuala Lumpur,0
+Petrol,2019,N.Sembilan,1
+Petrol,2019,Melaka,0
+Petrol,2019,Johor,0
+Petrol,2019,Pahang,0
+Petrol,2019,Terengganu,1
+Petrol,2019,Kelantan,2
+Petrol,2019,Sabah,0
+Petrol,2019,Sarawak,0
+Petrol,2019,Labuan,0
+Petrol,2019,Putrajaya,0
+Petrol,2020,Perlis,0
+Petrol,2020,Kedah,0
+Petrol,2020,P.Pinang,0
+Petrol,2020,Perak,1
+Petrol,2020,Selangor,4
+Petrol,2020,Kuala Lumpur,0
+Petrol,2020,N.Sembilan,1
+Petrol,2020,Melaka,0
+Petrol,2020,Johor,0
+Petrol,2020,Pahang,0
+Petrol,2020,Terengganu,0
+Petrol,2020,Kelantan,0
+Petrol,2020,Sabah,0
+Petrol,2020,Sarawak,1
+Petrol,2020,Labuan,0
+Petrol,2020,Putrajaya,0
+Chemical Substances,2015,Perlis,0
+Chemical Substances,2015,Kedah,0
+Chemical Substances,2015,P.Pinang,0
+Chemical Substances,2015,Perak,0
+Chemical Substances,2015,Selangor,3
+Chemical Substances,2015,Kuala Lumpur,0
+Chemical Substances,2015,N.Sembilan,0
+Chemical Substances,2015,Melaka,0
+Chemical Substances,2015,Johor,0
+Chemical Substances,2015,Pahang,2
+Chemical Substances,2015,Terengganu,0
+Chemical Substances,2015,Kelantan,0
+Chemical Substances,2015,Sabah,0
+Chemical Substances,2015,Sarawak,1
+Chemical Substances,2015,Labuan,0
+Chemical Substances,2015,Putrajaya,0
+Chemical Substances,2016,Perlis,0
+Chemical Substances,2016,Kedah,0
+Chemical Substances,2016,P.Pinang,1
+Chemical Substances,2016,Perak,1
+Chemical Substances,2016,Selangor,5
+Chemical Substances,2016,Kuala Lumpur,0
+Chemical Substances,2016,N.Sembilan,1
+Chemical Substances,2016,Melaka,1
+Chemical Substances,2016,Johor,1
+Chemical Substances,2016,Pahang,0
+Chemical Substances,2016,Terengganu,0
+Chemical Substances,2016,Kelantan,0
+Chemical Substances,2016,Sabah,0
+Chemical Substances,2016,Sarawak,0
+Chemical Substances,2016,Labuan,1
+Chemical Substances,2016,Putrajaya,0
+Chemical Substances,2017,Perlis,0
+Chemical Substances,2017,Kedah,0
+Chemical Substances,2017,P.Pinang,1
+Chemical Substances,2017,Perak,0
+Chemical Substances,2017,Selangor,1
+Chemical Substances,2017,Kuala Lumpur,0
+Chemical Substances,2017,N.Sembilan,0
+Chemical Substances,2017,Melaka,1
+Chemical Substances,2017,Johor,0
+Chemical Substances,2017,Pahang,0
+Chemical Substances,2017,Terengganu,0
+Chemical Substances,2017,Kelantan,0
+Chemical Substances,2017,Sabah,0
+Chemical Substances,2017,Sarawak,0
+Chemical Substances,2017,Labuan,0
+Chemical Substances,2017,Putrajaya,0
+Chemical Substances,2018,Perlis,0
+Chemical Substances,2018,Kedah,0
+Chemical Substances,2018,P.Pinang,0
+Chemical Substances,2018,Perak,0
+Chemical Substances,2018,Selangor,3
+Chemical Substances,2018,Kuala Lumpur,0
+Chemical Substances,2018,N.Sembilan,0
+Chemical Substances,2018,Melaka,0
+Chemical Substances,2018,Johor,2
+Chemical Substances,2018,Pahang,0
+Chemical Substances,2018,Terengganu,1
+Chemical Substances,2018,Kelantan,0
+Chemical Substances,2018,Sabah,0
+Chemical Substances,2018,Sarawak,0
+Chemical Substances,2018,Labuan,0
+Chemical Substances,2018,Putrajaya,0
+Chemical Substances,2019,Perlis,0
+Chemical Substances,2019,Kedah,0
+Chemical Substances,2019,P.Pinang,2
+Chemical Substances,2019,Perak,0
+Chemical Substances,2019,Selangor,3
+Chemical Substances,2019,Kuala Lumpur,0
+Chemical Substances,2019,N.Sembilan,4
+Chemical Substances,2019,Melaka,0
+Chemical Substances,2019,Johor,1
+Chemical Substances,2019,Pahang,1
+Chemical Substances,2019,Terengganu,2
+Chemical Substances,2019,Kelantan,0
+Chemical Substances,2019,Sabah,1
+Chemical Substances,2019,Sarawak,1
+Chemical Substances,2019,Labuan,0
+Chemical Substances,2019,Putrajaya,0
+Chemical Substances,2020,Perlis,0
+Chemical Substances,2020,Kedah,0
+Chemical Substances,2020,P.Pinang,1
+Chemical Substances,2020,Perak,0
+Chemical Substances,2020,Selangor,1
+Chemical Substances,2020,Kuala Lumpur,0
+Chemical Substances,2020,N.Sembilan,1
+Chemical Substances,2020,Melaka,0
+Chemical Substances,2020,Johor,2
+Chemical Substances,2020,Pahang,0
+Chemical Substances,2020,Terengganu,0
+Chemical Substances,2020,Kelantan,0
+Chemical Substances,2020,Sabah,0
+Chemical Substances,2020,Sarawak,0
+Chemical Substances,2020,Labuan,0
+Chemical Substances,2020,Putrajaya,0
+Gas,2015,Perlis,16
+Gas,2015,Kedah,23
+Gas,2015,P.Pinang,79
+Gas,2015,Perak,75
+Gas,2015,Selangor,132
+Gas,2015,Kuala Lumpur,7
+Gas,2015,N.Sembilan,14
+Gas,2015,Melaka,29
+Gas,2015,Johor,43
+Gas,2015,Pahang,25
+Gas,2015,Terengganu,34
+Gas,2015,Kelantan,40
+Gas,2015,Sabah,41
+Gas,2015,Sarawak,37
+Gas,2015,Labuan,7
+Gas,2015,Putrajaya,3
+Gas,2016,Perlis,10
+Gas,2016,Kedah,23
+Gas,2016,P.Pinang,82
+Gas,2016,Perak,75
+Gas,2016,Selangor,98
+Gas,2016,Kuala Lumpur,4
+Gas,2016,N.Sembilan,10
+Gas,2016,Melaka,37
+Gas,2016,Johor,30
+Gas,2016,Pahang,20
+Gas,2016,Terengganu,23
+Gas,2016,Kelantan,35
+Gas,2016,Sabah,44
+Gas,2016,Sarawak,25
+Gas,2016,Labuan,2
+Gas,2016,Putrajaya,1
+Gas,2017,Perlis,3
+Gas,2017,Kedah,24
+Gas,2017,P.Pinang,73
+Gas,2017,Perak,58
+Gas,2017,Selangor,131
+Gas,2017,Kuala Lumpur,3
+Gas,2017,N.Sembilan,14
+Gas,2017,Melaka,43
+Gas,2017,Johor,49
+Gas,2017,Pahang,37
+Gas,2017,Terengganu,20
+Gas,2017,Kelantan,53
+Gas,2017,Sabah,44
+Gas,2017,Sarawak,29
+Gas,2017,Labuan,1
+Gas,2017,Putrajaya,5
+Gas,2018,Perlis,4
+Gas,2018,Kedah,27
+Gas,2018,P.Pinang,78
+Gas,2018,Perak,58
+Gas,2018,Selangor,141
+Gas,2018,Kuala Lumpur,5
+Gas,2018,N.Sembilan,11
+Gas,2018,Melaka,37
+Gas,2018,Johor,46
+Gas,2018,Pahang,32
+Gas,2018,Terengganu,36
+Gas,2018,Kelantan,36
+Gas,2018,Sabah,47
+Gas,2018,Sarawak,20
+Gas,2018,Labuan,1
+Gas,2018,Putrajaya,3
+Gas,2019,Perlis,12
+Gas,2019,Kedah,26
+Gas,2019,P.Pinang,53
+Gas,2019,Perak,56
+Gas,2019,Selangor,148
+Gas,2019,Kuala Lumpur,9
+Gas,2019,N.Sembilan,3
+Gas,2019,Melaka,38
+Gas,2019,Johor,72
+Gas,2019,Pahang,32
+Gas,2019,Terengganu,23
+Gas,2019,Kelantan,38
+Gas,2019,Sabah,44
+Gas,2019,Sarawak,23
+Gas,2019,Labuan,1
+Gas,2019,Putrajaya,6
+Gas,2020,Perlis,9
+Gas,2020,Kedah,28
+Gas,2020,P.Pinang,56
+Gas,2020,Perak,39
+Gas,2020,Selangor,94
+Gas,2020,Kuala Lumpur,17
+Gas,2020,N.Sembilan,10
+Gas,2020,Melaka,27
+Gas,2020,Johor,38
+Gas,2020,Pahang,30
+Gas,2020,Terengganu,23
+Gas,2020,Kelantan,36
+Gas,2020,Sabah,27
+Gas,2020,Sarawak,19
+Gas,2020,Labuan,0
+Gas,2020,Putrajaya,3
+Airplane,2015,Perlis,0
+Airplane,2015,Kedah,1
+Airplane,2015,P.Pinang,0
+Airplane,2015,Perak,0
+Airplane,2015,Selangor,1
+Airplane,2015,Kuala Lumpur,0
+Airplane,2015,N.Sembilan,0
+Airplane,2015,Melaka,0
+Airplane,2015,Johor,0
+Airplane,2015,Pahang,1
+Airplane,2015,Terengganu,0
+Airplane,2015,Kelantan,0
+Airplane,2015,Sabah,0
+Airplane,2015,Sarawak,0
+Airplane,2015,Labuan,0
+Airplane,2015,Putrajaya,0
+Airplane,2016,Perlis,0
+Airplane,2016,Kedah,0
+Airplane,2016,P.Pinang,0
+Airplane,2016,Perak,0
+Airplane,2016,Selangor,0
+Airplane,2016,Kuala Lumpur,0
+Airplane,2016,N.Sembilan,0
+Airplane,2016,Melaka,0
+Airplane,2016,Johor,0
+Airplane,2016,Pahang,0
+Airplane,2016,Terengganu,0
+Airplane,2016,Kelantan,0
+Airplane,2016,Sabah,0
+Airplane,2016,Sarawak,0
+Airplane,2016,Labuan,0
+Airplane,2016,Putrajaya,0
+Airplane,2017,Perlis,0
+Airplane,2017,Kedah,0
+Airplane,2017,P.Pinang,0
+Airplane,2017,Perak,0
+Airplane,2017,Selangor,0
+Airplane,2017,Kuala Lumpur,0
+Airplane,2017,N.Sembilan,0
+Airplane,2017,Melaka,0
+Airplane,2017,Johor,0
+Airplane,2017,Pahang,0
+Airplane,2017,Terengganu,0
+Airplane,2017,Kelantan,0
+Airplane,2017,Sabah,0
+Airplane,2017,Sarawak,0
+Airplane,2017,Labuan,0
+Airplane,2017,Putrajaya,0
+Airplane,2018,Perlis,0
+Airplane,2018,Kedah,0
+Airplane,2018,P.Pinang,0
+Airplane,2018,Perak,0
+Airplane,2018,Selangor,0
+Airplane,2018,Kuala Lumpur,0
+Airplane,2018,N.Sembilan,0
+Airplane,2018,Melaka,0
+Airplane,2018,Johor,0
+Airplane,2018,Pahang,0
+Airplane,2018,Terengganu,0
+Airplane,2018,Kelantan,0
+Airplane,2018,Sabah,1
+Airplane,2018,Sarawak,0
+Airplane,2018,Labuan,0
+Airplane,2018,Putrajaya,0
+Airplane,2019,Perlis,0
+Airplane,2019,Kedah,0
+Airplane,2019,P.Pinang,0
+Airplane,2019,Perak,0
+Airplane,2019,Selangor,1
+Airplane,2019,Kuala Lumpur,0
+Airplane,2019,N.Sembilan,0
+Airplane,2019,Melaka,0
+Airplane,2019,Johor,0
+Airplane,2019,Pahang,0
+Airplane,2019,Terengganu,0
+Airplane,2019,Kelantan,0
+Airplane,2019,Sabah,0
+Airplane,2019,Sarawak,0
+Airplane,2019,Labuan,0
+Airplane,2019,Putrajaya,0
+Airplane,2020,Perlis,0
+Airplane,2020,Kedah,0
+Airplane,2020,P.Pinang,0
+Airplane,2020,Perak,0
+Airplane,2020,Selangor,0
+Airplane,2020,Kuala Lumpur,0
+Airplane,2020,N.Sembilan,0
+Airplane,2020,Melaka,0
+Airplane,2020,Johor,0
+Airplane,2020,Pahang,0
+Airplane,2020,Terengganu,0
+Airplane,2020,Kelantan,0
+Airplane,2020,Sabah,0
+Airplane,2020,Sarawak,1
+Airplane,2020,Labuan,0
+Airplane,2020,Putrajaya,0
+Helicopter,2015,Perlis,0
+Helicopter,2015,Kedah,0
+Helicopter,2015,P.Pinang,0
+Helicopter,2015,Perak,0
+Helicopter,2015,Selangor,1
+Helicopter,2015,Kuala Lumpur,0
+Helicopter,2015,N.Sembilan,0
+Helicopter,2015,Melaka,0
+Helicopter,2015,Johor,0
+Helicopter,2015,Pahang,0
+Helicopter,2015,Terengganu,0
+Helicopter,2015,Kelantan,0
+Helicopter,2015,Sabah,1
+Helicopter,2015,Sarawak,0
+Helicopter,2015,Labuan,0
+Helicopter,2015,Putrajaya,0
+Helicopter,2016,Perlis,0
+Helicopter,2016,Kedah,0
+Helicopter,2016,P.Pinang,0
+Helicopter,2016,Perak,0
+Helicopter,2016,Selangor,0
+Helicopter,2016,Kuala Lumpur,0
+Helicopter,2016,N.Sembilan,0
+Helicopter,2016,Melaka,0
+Helicopter,2016,Johor,0
+Helicopter,2016,Pahang,0
+Helicopter,2016,Terengganu,0
+Helicopter,2016,Kelantan,0
+Helicopter,2016,Sabah,0
+Helicopter,2016,Sarawak,0
+Helicopter,2016,Labuan,0
+Helicopter,2016,Putrajaya,0
+Helicopter,2017,Perlis,0
+Helicopter,2017,Kedah,0
+Helicopter,2017,P.Pinang,0
+Helicopter,2017,Perak,0
+Helicopter,2017,Selangor,0
+Helicopter,2017,Kuala Lumpur,0
+Helicopter,2017,N.Sembilan,0
+Helicopter,2017,Melaka,0
+Helicopter,2017,Johor,0
+Helicopter,2017,Pahang,0
+Helicopter,2017,Terengganu,0
+Helicopter,2017,Kelantan,0
+Helicopter,2017,Sabah,0
+Helicopter,2017,Sarawak,0
+Helicopter,2017,Labuan,0
+Helicopter,2017,Putrajaya,0
+Helicopter,2018,Perlis,0
+Helicopter,2018,Kedah,0
+Helicopter,2018,P.Pinang,0
+Helicopter,2018,Perak,0
+Helicopter,2018,Selangor,0
+Helicopter,2018,Kuala Lumpur,0
+Helicopter,2018,N.Sembilan,0
+Helicopter,2018,Melaka,0
+Helicopter,2018,Johor,0
+Helicopter,2018,Pahang,0
+Helicopter,2018,Terengganu,0
+Helicopter,2018,Kelantan,0
+Helicopter,2018,Sabah,0
+Helicopter,2018,Sarawak,0
+Helicopter,2018,Labuan,0
+Helicopter,2018,Putrajaya,0
+Helicopter,2019,Perlis,0
+Helicopter,2019,Kedah,0
+Helicopter,2019,P.Pinang,0
+Helicopter,2019,Perak,0
+Helicopter,2019,Selangor,0
+Helicopter,2019,Kuala Lumpur,0
+Helicopter,2019,N.Sembilan,0
+Helicopter,2019,Melaka,0
+Helicopter,2019,Johor,0
+Helicopter,2019,Pahang,0
+Helicopter,2019,Terengganu,0
+Helicopter,2019,Kelantan,0
+Helicopter,2019,Sabah,0
+Helicopter,2019,Sarawak,0
+Helicopter,2019,Labuan,0
+Helicopter,2019,Putrajaya,0
+Helicopter,2020,Perlis,0
+Helicopter,2020,Kedah,0
+Helicopter,2020,P.Pinang,0
+Helicopter,2020,Perak,0
+Helicopter,2020,Selangor,0
+Helicopter,2020,Kuala Lumpur,0
+Helicopter,2020,N.Sembilan,0
+Helicopter,2020,Melaka,0
+Helicopter,2020,Johor,0
+Helicopter,2020,Pahang,0
+Helicopter,2020,Terengganu,0
+Helicopter,2020,Kelantan,0
+Helicopter,2020,Sabah,0
+Helicopter,2020,Sarawak,0
+Helicopter,2020,Labuan,0
+Helicopter,2020,Putrajaya,0
+Ship,2015,Perlis,0
+Ship,2015,Kedah,1
+Ship,2015,P.Pinang,0
+Ship,2015,Perak,2
+Ship,2015,Selangor,0
+Ship,2015,Kuala Lumpur,0
+Ship,2015,N.Sembilan,0
+Ship,2015,Melaka,0
+Ship,2015,Johor,0
+Ship,2015,Pahang,0
+Ship,2015,Terengganu,0
+Ship,2015,Kelantan,0
+Ship,2015,Sabah,2
+Ship,2015,Sarawak,5
+Ship,2015,Labuan,0
+Ship,2015,Putrajaya,0
+Ship,2016,Perlis,0
+Ship,2016,Kedah,0
+Ship,2016,P.Pinang,1
+Ship,2016,Perak,2
+Ship,2016,Selangor,0
+Ship,2016,Kuala Lumpur,0
+Ship,2016,N.Sembilan,0
+Ship,2016,Melaka,0
+Ship,2016,Johor,1
+Ship,2016,Pahang,1
+Ship,2016,Terengganu,2
+Ship,2016,Kelantan,1
+Ship,2016,Sabah,2
+Ship,2016,Sarawak,2
+Ship,2016,Labuan,0
+Ship,2016,Putrajaya,0
+Ship,2017,Perlis,0
+Ship,2017,Kedah,0
+Ship,2017,P.Pinang,0
+Ship,2017,Perak,1
+Ship,2017,Selangor,0
+Ship,2017,Kuala Lumpur,0
+Ship,2017,N.Sembilan,0
+Ship,2017,Melaka,0
+Ship,2017,Johor,1
+Ship,2017,Pahang,1
+Ship,2017,Terengganu,0
+Ship,2017,Kelantan,1
+Ship,2017,Sabah,0
+Ship,2017,Sarawak,5
+Ship,2017,Labuan,0
+Ship,2017,Putrajaya,0
+Ship,2018,Perlis,0
+Ship,2018,Kedah,0
+Ship,2018,P.Pinang,0
+Ship,2018,Perak,1
+Ship,2018,Selangor,1
+Ship,2018,Kuala Lumpur,0
+Ship,2018,N.Sembilan,0
+Ship,2018,Melaka,0
+Ship,2018,Johor,2
+Ship,2018,Pahang,2
+Ship,2018,Terengganu,1
+Ship,2018,Kelantan,0
+Ship,2018,Sabah,0
+Ship,2018,Sarawak,6
+Ship,2018,Labuan,2
+Ship,2018,Putrajaya,0
+Ship,2019,Perlis,0
+Ship,2019,Kedah,2
+Ship,2019,P.Pinang,0
+Ship,2019,Perak,0
+Ship,2019,Selangor,5
+Ship,2019,Kuala Lumpur,0
+Ship,2019,N.Sembilan,0
+Ship,2019,Melaka,0
+Ship,2019,Johor,0
+Ship,2019,Pahang,0
+Ship,2019,Terengganu,1
+Ship,2019,Kelantan,0
+Ship,2019,Sabah,3
+Ship,2019,Sarawak,1
+Ship,2019,Labuan,1
+Ship,2019,Putrajaya,0
+Ship,2020,Perlis,0
+Ship,2020,Kedah,0
+Ship,2020,P.Pinang,0
+Ship,2020,Perak,0
+Ship,2020,Selangor,0
+Ship,2020,Kuala Lumpur,0
+Ship,2020,N.Sembilan,0
+Ship,2020,Melaka,0
+Ship,2020,Johor,0
+Ship,2020,Pahang,0
+Ship,2020,Terengganu,0
+Ship,2020,Kelantan,1
+Ship,2020,Sabah,0
+Ship,2020,Sarawak,0
+Ship,2020,Labuan,0
+Ship,2020,Putrajaya,0
+Ferry,2015,Perlis,0
+Ferry,2015,Kedah,0
+Ferry,2015,P.Pinang,1
+Ferry,2015,Perak,0
+Ferry,2015,Selangor,0
+Ferry,2015,Kuala Lumpur,0
+Ferry,2015,N.Sembilan,0
+Ferry,2015,Melaka,0
+Ferry,2015,Johor,0
+Ferry,2015,Pahang,0
+Ferry,2015,Terengganu,0
+Ferry,2015,Kelantan,0
+Ferry,2015,Sabah,0
+Ferry,2015,Sarawak,0
+Ferry,2015,Labuan,0
+Ferry,2015,Putrajaya,0
+Ferry,2016,Perlis,0
+Ferry,2016,Kedah,3
+Ferry,2016,P.Pinang,0
+Ferry,2016,Perak,0
+Ferry,2016,Selangor,0
+Ferry,2016,Kuala Lumpur,0
+Ferry,2016,N.Sembilan,0
+Ferry,2016,Melaka,0
+Ferry,2016,Johor,0
+Ferry,2016,Pahang,0
+Ferry,2016,Terengganu,0
+Ferry,2016,Kelantan,0
+Ferry,2016,Sabah,0
+Ferry,2016,Sarawak,0
+Ferry,2016,Labuan,0
+Ferry,2016,Putrajaya,0
+Ferry,2017,Perlis,0
+Ferry,2017,Kedah,0
+Ferry,2017,P.Pinang,0
+Ferry,2017,Perak,0
+Ferry,2017,Selangor,0
+Ferry,2017,Kuala Lumpur,0
+Ferry,2017,N.Sembilan,0
+Ferry,2017,Melaka,0
+Ferry,2017,Johor,0
+Ferry,2017,Pahang,0
+Ferry,2017,Terengganu,0
+Ferry,2017,Kelantan,0
+Ferry,2017,Sabah,0
+Ferry,2017,Sarawak,0
+Ferry,2017,Labuan,0
+Ferry,2017,Putrajaya,0
+Ferry,2018,Perlis,0
+Ferry,2018,Kedah,1
+Ferry,2018,P.Pinang,0
+Ferry,2018,Perak,0
+Ferry,2018,Selangor,0
+Ferry,2018,Kuala Lumpur,0
+Ferry,2018,N.Sembilan,0
+Ferry,2018,Melaka,0
+Ferry,2018,Johor,0
+Ferry,2018,Pahang,0
+Ferry,2018,Terengganu,0
+Ferry,2018,Kelantan,0
+Ferry,2018,Sabah,0
+Ferry,2018,Sarawak,0
+Ferry,2018,Labuan,0
+Ferry,2018,Putrajaya,0
+Ferry,2019,Perlis,0
+Ferry,2019,Kedah,1
+Ferry,2019,P.Pinang,0
+Ferry,2019,Perak,0
+Ferry,2019,Selangor,0
+Ferry,2019,Kuala Lumpur,0
+Ferry,2019,N.Sembilan,0
+Ferry,2019,Melaka,0
+Ferry,2019,Johor,0
+Ferry,2019,Pahang,0
+Ferry,2019,Terengganu,0
+Ferry,2019,Kelantan,0
+Ferry,2019,Sabah,0
+Ferry,2019,Sarawak,0
+Ferry,2019,Labuan,0
+Ferry,2019,Putrajaya,0
+Ferry,2020,Perlis,0
+Ferry,2020,Kedah,0
+Ferry,2020,P.Pinang,0
+Ferry,2020,Perak,0
+Ferry,2020,Selangor,0
+Ferry,2020,Kuala Lumpur,0
+Ferry,2020,N.Sembilan,0
+Ferry,2020,Melaka,0
+Ferry,2020,Johor,0
+Ferry,2020,Pahang,0
+Ferry,2020,Terengganu,0
+Ferry,2020,Kelantan,0
+Ferry,2020,Sabah,0
+Ferry,2020,Sarawak,0
+Ferry,2020,Labuan,0
+Ferry,2020,Putrajaya,0
+Boat,2015,Perlis,0
+Boat,2015,Kedah,3
+Boat,2015,P.Pinang,0
+Boat,2015,Perak,0
+Boat,2015,Selangor,0
+Boat,2015,Kuala Lumpur,0
+Boat,2015,N.Sembilan,0
+Boat,2015,Melaka,1
+Boat,2015,Johor,2
+Boat,2015,Pahang,2
+Boat,2015,Terengganu,2
+Boat,2015,Kelantan,1
+Boat,2015,Sabah,3
+Boat,2015,Sarawak,2
+Boat,2015,Labuan,0
+Boat,2015,Putrajaya,0
+Boat,2016,Perlis,0
+Boat,2016,Kedah,2
+Boat,2016,P.Pinang,1
+Boat,2016,Perak,2
+Boat,2016,Selangor,1
+Boat,2016,Kuala Lumpur,0
+Boat,2016,N.Sembilan,0
+Boat,2016,Melaka,0
+Boat,2016,Johor,2
+Boat,2016,Pahang,0
+Boat,2016,Terengganu,2
+Boat,2016,Kelantan,0
+Boat,2016,Sabah,0
+Boat,2016,Sarawak,0
+Boat,2016,Labuan,0
+Boat,2016,Putrajaya,0
+Boat,2017,Perlis,0
+Boat,2017,Kedah,0
+Boat,2017,P.Pinang,1
+Boat,2017,Perak,3
+Boat,2017,Selangor,2
+Boat,2017,Kuala Lumpur,0
+Boat,2017,N.Sembilan,0
+Boat,2017,Melaka,0
+Boat,2017,Johor,3
+Boat,2017,Pahang,2
+Boat,2017,Terengganu,0
+Boat,2017,Kelantan,1
+Boat,2017,Sabah,0
+Boat,2017,Sarawak,1
+Boat,2017,Labuan,1
+Boat,2017,Putrajaya,0
+Boat,2018,Perlis,1
+Boat,2018,Kedah,1
+Boat,2018,P.Pinang,1
+Boat,2018,Perak,1
+Boat,2018,Selangor,0
+Boat,2018,Kuala Lumpur,0
+Boat,2018,N.Sembilan,0
+Boat,2018,Melaka,0
+Boat,2018,Johor,0
+Boat,2018,Pahang,1
+Boat,2018,Terengganu,2
+Boat,2018,Kelantan,2
+Boat,2018,Sabah,4
+Boat,2018,Sarawak,1
+Boat,2018,Labuan,0
+Boat,2018,Putrajaya,0
+Boat,2019,Perlis,1
+Boat,2019,Kedah,1
+Boat,2019,P.Pinang,0
+Boat,2019,Perak,5
+Boat,2019,Selangor,0
+Boat,2019,Kuala Lumpur,0
+Boat,2019,N.Sembilan,0
+Boat,2019,Melaka,1
+Boat,2019,Johor,1
+Boat,2019,Pahang,1
+Boat,2019,Terengganu,2
+Boat,2019,Kelantan,1
+Boat,2019,Sabah,0
+Boat,2019,Sarawak,3
+Boat,2019,Labuan,0
+Boat,2019,Putrajaya,0
+Boat,2020,Perlis,0
+Boat,2020,Kedah,1
+Boat,2020,P.Pinang,0
+Boat,2020,Perak,6
+Boat,2020,Selangor,2
+Boat,2020,Kuala Lumpur,0
+Boat,2020,N.Sembilan,0
+Boat,2020,Melaka,0
+Boat,2020,Johor,0
+Boat,2020,Pahang,5
+Boat,2020,Terengganu,3
+Boat,2020,Kelantan,0
+Boat,2020,Sabah,2
+Boat,2020,Sarawak,2
+Boat,2020,Labuan,1
+Boat,2020,Putrajaya,0
+Crop/Farm,2015,Perlis,11
+Crop/Farm,2015,Kedah,70
+Crop/Farm,2015,P.Pinang,22
+Crop/Farm,2015,Perak,46
+Crop/Farm,2015,Selangor,192
+Crop/Farm,2015,Kuala Lumpur,1
+Crop/Farm,2015,N.Sembilan,42
+Crop/Farm,2015,Melaka,61
+Crop/Farm,2015,Johor,707
+Crop/Farm,2015,Pahang,49
+Crop/Farm,2015,Terengganu,33
+Crop/Farm,2015,Kelantan,106
+Crop/Farm,2015,Sabah,162
+Crop/Farm,2015,Sarawak,50
+Crop/Farm,2015,Labuan,0
+Crop/Farm,2015,Putrajaya,0
+Crop/Farm,2016,Perlis,26
+Crop/Farm,2016,Kedah,163
+Crop/Farm,2016,P.Pinang,29
+Crop/Farm,2016,Perak,187
+Crop/Farm,2016,Selangor,351
+Crop/Farm,2016,Kuala Lumpur,0
+Crop/Farm,2016,N.Sembilan,51
+Crop/Farm,2016,Melaka,51
+Crop/Farm,2016,Johor,544
+Crop/Farm,2016,Pahang,106
+Crop/Farm,2016,Terengganu,59
+Crop/Farm,2016,Kelantan,79
+Crop/Farm,2016,Sabah,334
+Crop/Farm,2016,Sarawak,47
+Crop/Farm,2016,Labuan,2
+Crop/Farm,2016,Putrajaya,0
+Crop/Farm,2017,Perlis,7
+Crop/Farm,2017,Kedah,9
+Crop/Farm,2017,P.Pinang,5
+Crop/Farm,2017,Perak,68
+Crop/Farm,2017,Selangor,120
+Crop/Farm,2017,Kuala Lumpur,0
+Crop/Farm,2017,N.Sembilan,14
+Crop/Farm,2017,Melaka,7
+Crop/Farm,2017,Johor,81
+Crop/Farm,2017,Pahang,9
+Crop/Farm,2017,Terengganu,7
+Crop/Farm,2017,Kelantan,8
+Crop/Farm,2017,Sabah,30
+Crop/Farm,2017,Sarawak,25
+Crop/Farm,2017,Labuan,1
+Crop/Farm,2017,Putrajaya,0
+Crop/Farm,2018,Perlis,7
+Crop/Farm,2018,Kedah,33
+Crop/Farm,2018,P.Pinang,3
+Crop/Farm,2018,Perak,53
+Crop/Farm,2018,Selangor,231
+Crop/Farm,2018,Kuala Lumpur,1
+Crop/Farm,2018,N.Sembilan,18
+Crop/Farm,2018,Melaka,17
+Crop/Farm,2018,Johor,274
+Crop/Farm,2018,Pahang,34
+Crop/Farm,2018,Terengganu,22
+Crop/Farm,2018,Kelantan,21
+Crop/Farm,2018,Sabah,75
+Crop/Farm,2018,Sarawak,84
+Crop/Farm,2018,Labuan,0
+Crop/Farm,2018,Putrajaya,0
+Crop/Farm,2019,Perlis,7
+Crop/Farm,2019,Kedah,62
+Crop/Farm,2019,P.Pinang,16
+Crop/Farm,2019,Perak,95
+Crop/Farm,2019,Selangor,402
+Crop/Farm,2019,Kuala Lumpur,0
+Crop/Farm,2019,N.Sembilan,37
+Crop/Farm,2019,Melaka,41
+Crop/Farm,2019,Johor,1042
+Crop/Farm,2019,Pahang,58
+Crop/Farm,2019,Terengganu,32
+Crop/Farm,2019,Kelantan,45
+Crop/Farm,2019,Sabah,270
+Crop/Farm,2019,Sarawak,125
+Crop/Farm,2019,Labuan,3
+Crop/Farm,2019,Putrajaya,0
+Crop/Farm,2020,Perlis,21
+Crop/Farm,2020,Kedah,99
+Crop/Farm,2020,P.Pinang,11
+Crop/Farm,2020,Perak,55
+Crop/Farm,2020,Selangor,246
+Crop/Farm,2020,Kuala Lumpur,0
+Crop/Farm,2020,N.Sembilan,29
+Crop/Farm,2020,Melaka,28
+Crop/Farm,2020,Johor,424
+Crop/Farm,2020,Pahang,24
+Crop/Farm,2020,Terengganu,21
+Crop/Farm,2020,Kelantan,24
+Crop/Farm,2020,Sabah,113
+Crop/Farm,2020,Sarawak,20
+Crop/Farm,2020,Labuan,0
+Crop/Farm,2020,Putrajaya,0
+Forest,2015,Perlis,9
+Forest,2015,Kedah,65
+Forest,2015,P.Pinang,170
+Forest,2015,Perak,75
+Forest,2015,Selangor,276
+Forest,2015,Kuala Lumpur,1
+Forest,2015,N.Sembilan,230
+Forest,2015,Melaka,61
+Forest,2015,Johor,385
+Forest,2015,Pahang,178
+Forest,2015,Terengganu,133
+Forest,2015,Kelantan,349
+Forest,2015,Sabah,657
+Forest,2015,Sarawak,163
+Forest,2015,Labuan,12
+Forest,2015,Putrajaya,3
+Forest,2016,Perlis,4
+Forest,2016,Kedah,230
+Forest,2016,P.Pinang,196
+Forest,2016,Perak,370
+Forest,2016,Selangor,639
+Forest,2016,Kuala Lumpur,8
+Forest,2016,N.Sembilan,482
+Forest,2016,Melaka,54
+Forest,2016,Johor,283
+Forest,2016,Pahang,235
+Forest,2016,Terengganu,170
+Forest,2016,Kelantan,407
+Forest,2016,Sabah,1357
+Forest,2016,Sarawak,122
+Forest,2016,Labuan,35
+Forest,2016,Putrajaya,3
+Forest,2017,Perlis,1
+Forest,2017,Kedah,16
+Forest,2017,P.Pinang,39
+Forest,2017,Perak,87
+Forest,2017,Selangor,236
+Forest,2017,Kuala Lumpur,10
+Forest,2017,N.Sembilan,74
+Forest,2017,Melaka,3
+Forest,2017,Johor,89
+Forest,2017,Pahang,52
+Forest,2017,Terengganu,39
+Forest,2017,Kelantan,58
+Forest,2017,Sabah,93
+Forest,2017,Sarawak,45
+Forest,2017,Labuan,6
+Forest,2017,Putrajaya,0
+Forest,2018,Perlis,4
+Forest,2018,Kedah,24
+Forest,2018,P.Pinang,53
+Forest,2018,Perak,107
+Forest,2018,Selangor,446
+Forest,2018,Kuala Lumpur,4
+Forest,2018,N.Sembilan,209
+Forest,2018,Melaka,10
+Forest,2018,Johor,234
+Forest,2018,Pahang,160
+Forest,2018,Terengganu,73
+Forest,2018,Kelantan,78
+Forest,2018,Sabah,359
+Forest,2018,Sarawak,120
+Forest,2018,Labuan,10
+Forest,2018,Putrajaya,1
+Forest,2019,Perlis,5
+Forest,2019,Kedah,87
+Forest,2019,P.Pinang,120
+Forest,2019,Perak,178
+Forest,2019,Selangor,370
+Forest,2019,Kuala Lumpur,4
+Forest,2019,N.Sembilan,347
+Forest,2019,Melaka,27
+Forest,2019,Johor,454
+Forest,2019,Pahang,275
+Forest,2019,Terengganu,160
+Forest,2019,Kelantan,267
+Forest,2019,Sabah,1105
+Forest,2019,Sarawak,240
+Forest,2019,Labuan,21
+Forest,2019,Putrajaya,1
+Forest,2020,Perlis,6
+Forest,2020,Kedah,208
+Forest,2020,P.Pinang,153
+Forest,2020,Perak,79
+Forest,2020,Selangor,403
+Forest,2020,Kuala Lumpur,6
+Forest,2020,N.Sembilan,170
+Forest,2020,Melaka,28
+Forest,2020,Johor,21
+Forest,2020,Pahang,87
+Forest,2020,Terengganu,93
+Forest,2020,Kelantan,105
+Forest,2020,Sabah,593
+Forest,2020,Sarawak,26
+Forest,2020,Labuan,9
+Forest,2020,Putrajaya,1
+Bushes,2015,Perlis,337
+Bushes,2015,Kedah,1082
+Bushes,2015,P.Pinang,682
+Bushes,2015,Perak,1281
+Bushes,2015,Selangor,1176
+Bushes,2015,Kuala Lumpur,75
+Bushes,2015,N.Sembilan,426
+Bushes,2015,Melaka,901
+Bushes,2015,Johor,2713
+Bushes,2015,Pahang,1145
+Bushes,2015,Terengganu,1027
+Bushes,2015,Kelantan,366
+Bushes,2015,Sabah,1309
+Bushes,2015,Sarawak,880
+Bushes,2015,Labuan,221
+Bushes,2015,Putrajaya,11
+Bushes,2016,Perlis,654
+Bushes,2016,Kedah,2385
+Bushes,2016,P.Pinang,1283
+Bushes,2016,Perak,3125
+Bushes,2016,Selangor,1840
+Bushes,2016,Kuala Lumpur,128
+Bushes,2016,N.Sembilan,617
+Bushes,2016,Melaka,1369
+Bushes,2016,Johor,1873
+Bushes,2016,Pahang,1361
+Bushes,2016,Terengganu,1411
+Bushes,2016,Kelantan,629
+Bushes,2016,Sabah,1654
+Bushes,2016,Sarawak,745
+Bushes,2016,Labuan,363
+Bushes,2016,Putrajaya,11
+Bushes,2017,Perlis,146
+Bushes,2017,Kedah,425
+Bushes,2017,P.Pinang,347
+Bushes,2017,Perak,1070
+Bushes,2017,Selangor,963
+Bushes,2017,Kuala Lumpur,51
+Bushes,2017,N.Sembilan,203
+Bushes,2017,Melaka,321
+Bushes,2017,Johor,858
+Bushes,2017,Pahang,264
+Bushes,2017,Terengganu,475
+Bushes,2017,Kelantan,146
+Bushes,2017,Sabah,347
+Bushes,2017,Sarawak,511
+Bushes,2017,Labuan,81
+Bushes,2017,Putrajaya,12
+Bushes,2018,Perlis,288
+Bushes,2018,Kedah,799
+Bushes,2018,P.Pinang,419
+Bushes,2018,Perak,1344
+Bushes,2018,Selangor,1367
+Bushes,2018,Kuala Lumpur,84
+Bushes,2018,N.Sembilan,576
+Bushes,2018,Melaka,630
+Bushes,2018,Johor,1607
+Bushes,2018,Pahang,769
+Bushes,2018,Terengganu,844
+Bushes,2018,Kelantan,285
+Bushes,2018,Sabah,684
+Bushes,2018,Sarawak,905
+Bushes,2018,Labuan,141
+Bushes,2018,Putrajaya,12
+Bushes,2019,Perlis,404
+Bushes,2019,Kedah,1750
+Bushes,2019,P.Pinang,896
+Bushes,2019,Perak,1776
+Bushes,2019,Selangor,1476
+Bushes,2019,Kuala Lumpur,63
+Bushes,2019,N.Sembilan,843
+Bushes,2019,Melaka,1355
+Bushes,2019,Johor,3304
+Bushes,2019,Pahang,1294
+Bushes,2019,Terengganu,1266
+Bushes,2019,Kelantan,763
+Bushes,2019,Sabah,1767
+Bushes,2019,Sarawak,1678
+Bushes,2019,Labuan,281
+Bushes,2019,Putrajaya,11
+Bushes,2020,Perlis,515
+Bushes,2020,Kedah,1818
+Bushes,2020,P.Pinang,733
+Bushes,2020,Perak,1157
+Bushes,2020,Selangor,1214
+Bushes,2020,Kuala Lumpur,67
+Bushes,2020,N.Sembilan,515
+Bushes,2020,Melaka,894
+Bushes,2020,Johor,1738
+Bushes,2020,Pahang,721
+Bushes,2020,Terengganu,816
+Bushes,2020,Kelantan,524
+Bushes,2020,Sabah,989
+Bushes,2020,Sarawak,495
+Bushes,2020,Labuan,203
+Bushes,2020,Putrajaya,3
+Trash,2015,Perlis,18
+Trash,2015,Kedah,53
+Trash,2015,P.Pinang,283
+Trash,2015,Perak,321
+Trash,2015,Selangor,1003
+Trash,2015,Kuala Lumpur,163
+Trash,2015,N.Sembilan,116
+Trash,2015,Melaka,127
+Trash,2015,Johor,546
+Trash,2015,Pahang,105
+Trash,2015,Terengganu,62
+Trash,2015,Kelantan,105
+Trash,2015,Sabah,150
+Trash,2015,Sarawak,137
+Trash,2015,Labuan,8
+Trash,2015,Putrajaya,13
+Trash,2016,Perlis,21
+Trash,2016,Kedah,71
+Trash,2016,P.Pinang,352
+Trash,2016,Perak,460
+Trash,2016,Selangor,1079
+Trash,2016,Kuala Lumpur,191
+Trash,2016,N.Sembilan,129
+Trash,2016,Melaka,100
+Trash,2016,Johor,387
+Trash,2016,Pahang,110
+Trash,2016,Terengganu,42
+Trash,2016,Kelantan,83
+Trash,2016,Sabah,129
+Trash,2016,Sarawak,153
+Trash,2016,Labuan,15
+Trash,2016,Putrajaya,14
+Trash,2017,Perlis,5
+Trash,2017,Kedah,40
+Trash,2017,P.Pinang,258
+Trash,2017,Perak,290
+Trash,2017,Selangor,843
+Trash,2017,Kuala Lumpur,118
+Trash,2017,N.Sembilan,99
+Trash,2017,Melaka,95
+Trash,2017,Johor,361
+Trash,2017,Pahang,60
+Trash,2017,Terengganu,37
+Trash,2017,Kelantan,45
+Trash,2017,Sabah,102
+Trash,2017,Sarawak,161
+Trash,2017,Labuan,8
+Trash,2017,Putrajaya,13
+Trash,2018,Perlis,20
+Trash,2018,Kedah,84
+Trash,2018,P.Pinang,250
+Trash,2018,Perak,367
+Trash,2018,Selangor,846
+Trash,2018,Kuala Lumpur,165
+Trash,2018,N.Sembilan,164
+Trash,2018,Melaka,118
+Trash,2018,Johor,503
+Trash,2018,Pahang,116
+Trash,2018,Terengganu,42
+Trash,2018,Kelantan,68
+Trash,2018,Sabah,99
+Trash,2018,Sarawak,190
+Trash,2018,Labuan,8
+Trash,2018,Putrajaya,7
+Trash,2019,Perlis,22
+Trash,2019,Kedah,97
+Trash,2019,P.Pinang,353
+Trash,2019,Perak,404
+Trash,2019,Selangor,1124
+Trash,2019,Kuala Lumpur,141
+Trash,2019,N.Sembilan,236
+Trash,2019,Melaka,204
+Trash,2019,Johor,788
+Trash,2019,Pahang,116
+Trash,2019,Terengganu,59
+Trash,2019,Kelantan,107
+Trash,2019,Sabah,179
+Trash,2019,Sarawak,242
+Trash,2019,Labuan,11
+Trash,2019,Putrajaya,1
+Trash,2020,Perlis,15
+Trash,2020,Kedah,143
+Trash,2020,P.Pinang,337
+Trash,2020,Perak,285
+Trash,2020,Selangor,934
+Trash,2020,Kuala Lumpur,126
+Trash,2020,N.Sembilan,150
+Trash,2020,Melaka,128
+Trash,2020,Johor,572
+Trash,2020,Pahang,77
+Trash,2020,Terengganu,57
+Trash,2020,Kelantan,77
+Trash,2020,Sabah,108
+Trash,2020,Sarawak,147
+Trash,2020,Labuan,13
+Trash,2020,Putrajaya,7
+Stall,2015,Perlis,2
+Stall,2015,Kedah,11
+Stall,2015,P.Pinang,9
+Stall,2015,Perak,10
+Stall,2015,Selangor,39
+Stall,2015,Kuala Lumpur,12
+Stall,2015,N.Sembilan,5
+Stall,2015,Melaka,4
+Stall,2015,Johor,5
+Stall,2015,Pahang,8
+Stall,2015,Terengganu,5
+Stall,2015,Kelantan,6
+Stall,2015,Sabah,2
+Stall,2015,Sarawak,6
+Stall,2015,Labuan,1
+Stall,2015,Putrajaya,0
+Stall,2016,Perlis,1
+Stall,2016,Kedah,10
+Stall,2016,P.Pinang,8
+Stall,2016,Perak,9
+Stall,2016,Selangor,33
+Stall,2016,Kuala Lumpur,7
+Stall,2016,N.Sembilan,4
+Stall,2016,Melaka,5
+Stall,2016,Johor,7
+Stall,2016,Pahang,6
+Stall,2016,Terengganu,2
+Stall,2016,Kelantan,10
+Stall,2016,Sabah,12
+Stall,2016,Sarawak,12
+Stall,2016,Labuan,1
+Stall,2016,Putrajaya,0
+Stall,2017,Perlis,2
+Stall,2017,Kedah,18
+Stall,2017,P.Pinang,4
+Stall,2017,Perak,12
+Stall,2017,Selangor,16
+Stall,2017,Kuala Lumpur,14
+Stall,2017,N.Sembilan,8
+Stall,2017,Melaka,3
+Stall,2017,Johor,9
+Stall,2017,Pahang,7
+Stall,2017,Terengganu,4
+Stall,2017,Kelantan,5
+Stall,2017,Sabah,13
+Stall,2017,Sarawak,10
+Stall,2017,Labuan,0
+Stall,2017,Putrajaya,0
+Stall,2018,Perlis,2
+Stall,2018,Kedah,10
+Stall,2018,P.Pinang,7
+Stall,2018,Perak,4
+Stall,2018,Selangor,16
+Stall,2018,Kuala Lumpur,12
+Stall,2018,N.Sembilan,7
+Stall,2018,Melaka,2
+Stall,2018,Johor,2
+Stall,2018,Pahang,3
+Stall,2018,Terengganu,1
+Stall,2018,Kelantan,4
+Stall,2018,Sabah,10
+Stall,2018,Sarawak,6
+Stall,2018,Labuan,0
+Stall,2018,Putrajaya,0
+Stall,2019,Perlis,1
+Stall,2019,Kedah,17
+Stall,2019,P.Pinang,10
+Stall,2019,Perak,15
+Stall,2019,Selangor,19
+Stall,2019,Kuala Lumpur,13
+Stall,2019,N.Sembilan,6
+Stall,2019,Melaka,5
+Stall,2019,Johor,7
+Stall,2019,Pahang,1
+Stall,2019,Terengganu,5
+Stall,2019,Kelantan,3
+Stall,2019,Sabah,5
+Stall,2019,Sarawak,6
+Stall,2019,Labuan,0
+Stall,2019,Putrajaya,0
+Stall,2020,Perlis,3
+Stall,2020,Kedah,12
+Stall,2020,P.Pinang,2
+Stall,2020,Perak,7
+Stall,2020,Selangor,18
+Stall,2020,Kuala Lumpur,17
+Stall,2020,N.Sembilan,2
+Stall,2020,Melaka,2
+Stall,2020,Johor,7
+Stall,2020,Pahang,6
+Stall,2020,Terengganu,4
+Stall,2020,Kelantan,2
+Stall,2020,Sabah,3
+Stall,2020,Sarawak,7
+Stall,2020,Labuan,0
+Stall,2020,Putrajaya,0
+Others,2015,Perlis,243
+Others,2015,Kedah,661
+Others,2015,P.Pinang,731
+Others,2015,Perak,837
+Others,2015,Selangor,1546
+Others,2015,Kuala Lumpur,319
+Others,2015,N.Sembilan,314
+Others,2015,Melaka,332
+Others,2015,Johor,920
+Others,2015,Pahang,500
+Others,2015,Terengganu,385
+Others,2015,Kelantan,606
+Others,2015,Sabah,329
+Others,2015,Sarawak,198
+Others,2015,Labuan,21
+Others,2015,Putrajaya,27
+Others,2016,Perlis,289
+Others,2016,Kedah,780
+Others,2016,P.Pinang,769
+Others,2016,Perak,1206
+Others,2016,Selangor,1713
+Others,2016,Kuala Lumpur,410
+Others,2016,N.Sembilan,346
+Others,2016,Melaka,455
+Others,2016,Johor,728
+Others,2016,Pahang,504
+Others,2016,Terengganu,334
+Others,2016,Kelantan,622
+Others,2016,Sabah,398
+Others,2016,Sarawak,228
+Others,2016,Labuan,34
+Others,2016,Putrajaya,36
+Others,2017,Perlis,151
+Others,2017,Kedah,597
+Others,2017,P.Pinang,633
+Others,2017,Perak,949
+Others,2017,Selangor,1712
+Others,2017,Kuala Lumpur,341
+Others,2017,N.Sembilan,312
+Others,2017,Melaka,356
+Others,2017,Johor,709
+Others,2017,Pahang,409
+Others,2017,Terengganu,260
+Others,2017,Kelantan,485
+Others,2017,Sabah,403
+Others,2017,Sarawak,234
+Others,2017,Labuan,28
+Others,2017,Putrajaya,15
+Others,2018,Perlis,153
+Others,2018,Kedah,773
+Others,2018,P.Pinang,747
+Others,2018,Perak,916
+Others,2018,Selangor,1883
+Others,2018,Kuala Lumpur,415
+Others,2018,N.Sembilan,402
+Others,2018,Melaka,421
+Others,2018,Johor,841
+Others,2018,Pahang,507
+Others,2018,Terengganu,306
+Others,2018,Kelantan,506
+Others,2018,Sabah,491
+Others,2018,Sarawak,285
+Others,2018,Labuan,29
+Others,2018,Putrajaya,28
+Others,2019,Perlis,257
+Others,2019,Kedah,900
+Others,2019,P.Pinang,693
+Others,2019,Perak,1093
+Others,2019,Selangor,2166
+Others,2019,Kuala Lumpur,543
+Others,2019,N.Sembilan,371
+Others,2019,Melaka,463
+Others,2019,Johor,1029
+Others,2019,Pahang,559
+Others,2019,Terengganu,374
+Others,2019,Kelantan,503
+Others,2019,Sabah,491
+Others,2019,Sarawak,338
+Others,2019,Labuan,33
+Others,2019,Putrajaya,13
+Others,2020,Perlis,258
+Others,2020,Kedah,843
+Others,2020,P.Pinang,698
+Others,2020,Perak,962
+Others,2020,Selangor,2004
+Others,2020,Kuala Lumpur,475
+Others,2020,N.Sembilan,300
+Others,2020,Melaka,400
+Others,2020,Johor,757
+Others,2020,Pahang,447
+Others,2020,Terengganu,335
+Others,2020,Kelantan,450
+Others,2020,Sabah,398
+Others,2020,Sarawak,273
+Others,2020,Labuan,27
+Others,2020,Putrajaya,15
